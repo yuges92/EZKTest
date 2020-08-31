@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c8265b4-5d4e-4aed-a9a9-6f20cb44db4b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Ezekia.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Ezekia.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/factories/UserFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/UserFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phpunit.xml" beforeDir="false" afterPath="$PROJECT_DIR$/phpunit.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/Feature/ExampleTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/TestCase.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TestCase.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/Unit/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -216,7 +203,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598805847825</updated>
       <workItem from="1598805851505" duration="18029000" />
-      <workItem from="1598884260234" duration="11299000" />
+      <workItem from="1598884260234" duration="11612000" />
     </task>
     <servers />
   </component>
@@ -240,25 +227,25 @@
       <screen x="1280" y="-280" width="1920" height="1080" />
     </state>
     <state x="1978" y="22" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1280.800/1280.-280.1920.1080/3200.-280.1920.1080@1280.-280.1920.1080" timestamp="1598893339531" />
-    <state width="1878" height="432" key="GridCell.Tab.0.bottom" timestamp="1598897872029">
+    <state width="1878" height="432" key="GridCell.Tab.0.bottom" timestamp="1598898809286">
       <screen x="1280" y="-280" width="1920" height="1080" />
     </state>
-    <state width="1878" height="432" key="GridCell.Tab.0.bottom/0.0.1280.800/1280.-280.1920.1080/3200.-280.1920.1080@1280.-280.1920.1080" timestamp="1598897872029" />
+    <state width="1878" height="432" key="GridCell.Tab.0.bottom/0.0.1280.800/1280.-280.1920.1080/3200.-280.1920.1080@1280.-280.1920.1080" timestamp="1598898809286" />
     <state width="1238" height="305" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1598833880536" />
-    <state width="1878" height="432" key="GridCell.Tab.0.center" timestamp="1598897872027">
+    <state width="1878" height="432" key="GridCell.Tab.0.center" timestamp="1598898809280">
       <screen x="1280" y="-280" width="1920" height="1080" />
     </state>
-    <state width="1878" height="432" key="GridCell.Tab.0.center/0.0.1280.800/1280.-280.1920.1080/3200.-280.1920.1080@1280.-280.1920.1080" timestamp="1598897872027" />
+    <state width="1878" height="432" key="GridCell.Tab.0.center/0.0.1280.800/1280.-280.1920.1080/3200.-280.1920.1080@1280.-280.1920.1080" timestamp="1598898809280" />
     <state width="1238" height="305" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1598833880535" />
-    <state width="1878" height="432" key="GridCell.Tab.0.left" timestamp="1598897872025">
+    <state width="1878" height="432" key="GridCell.Tab.0.left" timestamp="1598898809278">
       <screen x="1280" y="-280" width="1920" height="1080" />
     </state>
-    <state width="1878" height="432" key="GridCell.Tab.0.left/0.0.1280.800/1280.-280.1920.1080/3200.-280.1920.1080@1280.-280.1920.1080" timestamp="1598897872025" />
+    <state width="1878" height="432" key="GridCell.Tab.0.left/0.0.1280.800/1280.-280.1920.1080/3200.-280.1920.1080@1280.-280.1920.1080" timestamp="1598898809278" />
     <state width="1238" height="305" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1598833880534" />
-    <state width="1878" height="432" key="GridCell.Tab.0.right" timestamp="1598897872028">
+    <state width="1878" height="432" key="GridCell.Tab.0.right" timestamp="1598898809281">
       <screen x="1280" y="-280" width="1920" height="1080" />
     </state>
-    <state width="1878" height="432" key="GridCell.Tab.0.right/0.0.1280.800/1280.-280.1920.1080/3200.-280.1920.1080@1280.-280.1920.1080" timestamp="1598897872028" />
+    <state width="1878" height="432" key="GridCell.Tab.0.right/0.0.1280.800/1280.-280.1920.1080/3200.-280.1920.1080@1280.-280.1920.1080" timestamp="1598898809281" />
     <state width="1238" height="305" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1598833880535" />
     <state x="1928" y="-7" key="NewPhpClassDialog" timestamp="1598897066079">
       <screen x="1280" y="-280" width="1920" height="1080" />
