@@ -39,7 +39,7 @@ return [
     |
     */
 
-    'debug' => (bool) env('APP_DEBUG', false),
+    'debug' => (bool)env('APP_DEBUG', false),
 
     /*
     |--------------------------------------------------------------------------
@@ -228,5 +228,14 @@ return [
         'View' => Illuminate\Support\Facades\View::class,
 
     ],
+
+    'rates' => [
+        'GBP' => ["USD" => 1.3, "EUR" => 1.1,],
+        'EUR' => ["GBP" => 0.9, "USD" => 1.2,],
+        'USD' => ["GBP" => 0.7, "EUR" => 0.8,]
+    ],
+    'exchange_api' => [
+        'base_url' => 'https://api.exchangeratesapi.io/'
+    ]
 
 ];
